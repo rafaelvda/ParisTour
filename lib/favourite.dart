@@ -33,6 +33,14 @@ class Favourite extends StatelessWidget {
                   style: TextStyle(
                     fontSize: 30,
                     color: Colors.white,
+                    fontWeight: FontWeight.bold,
+                    shadows: [
+                      Shadow(
+                        blurRadius: 10.0,
+                        color: Colors.black,
+                        offset: Offset(5.0, 5.0),
+                      ),
+                    ],
                     ),
                   ),
                   ElevatedButton(
@@ -65,6 +73,14 @@ class Favourite extends StatelessWidget {
                   style: TextStyle(
                     fontSize: 30,
                     color: Colors.white,
+                    fontWeight: FontWeight.bold,
+                    shadows: [
+                      Shadow(
+                        blurRadius: 10.0,
+                        color: Colors.black,
+                        offset: Offset(5.0, 5.0),
+                      ),
+                    ],
                     ),
                   ),
                   ElevatedButton(
@@ -94,6 +110,14 @@ class Favourite extends StatelessWidget {
                   style: TextStyle(
                     fontSize: 30,
                     color: Colors.white,
+                    fontWeight: FontWeight.bold,
+                    shadows: [
+                      Shadow(
+                        blurRadius: 10.0,
+                        color: Colors.black,
+                        offset: Offset(5.0, 5.0),
+                      ),
+                    ],
                     ),
                   ),
                   ElevatedButton(
@@ -122,6 +146,14 @@ class Favourite extends StatelessWidget {
                   style: TextStyle(
                     fontSize: 30,
                     color: Colors.white,
+                    fontWeight: FontWeight.bold,
+                    shadows: [
+                      Shadow(
+                        blurRadius: 10.0,
+                        color: Colors.black,
+                        offset: Offset(5.0, 5.0),
+                      ),
+                    ],
                     ),
                   ),
                   ElevatedButton(
