@@ -2,7 +2,16 @@
 
 A new Flutter project. A tourist application for Paris still in progress...
 
+## Screenshot
+
 <img width="940" alt="Capture d’écran 2021-11-15 à 21 41 07" src="https://user-images.githubusercontent.com/61911915/143919692-ad2e1c3a-ffcc-4ff1-a622-8ac25750cd81.png">
+
+## Development Setup
+
+Clone the repository and run the following commands :
+
+flutter pub get
+flutter run
 
 ## Getting Started
 
